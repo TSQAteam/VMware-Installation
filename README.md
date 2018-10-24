@@ -2,7 +2,7 @@
 
 1. Double click the 'VMWare' installation set up file (.exe) for installing the 'VMWare Workstation'
 
-2.'VMWare Product installation window' will be displayed
+2. 'VMWare Product installation window' will be displayed
 
 3. After the few seconds 'VMWare Workstation' Welcome screen will be displayed
 
