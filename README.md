@@ -147,9 +147,15 @@
 
 1. In VMWare -> My Computer -> Windows 10x64
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f41.png)
+
 2. Right click the windwows 10x64 and click 'Settings' options,Virtual Machine settings pop up will be displayed
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f42.png)
+
 3. Hardware tab ->To select the 'CD/DVD (SATA)'
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f43.png)
 
 4. To Browser your installation file ('Disc Image File')
 
@@ -157,5 +163,6 @@
 
 6. Installation process will be started
 
-7. Once an installation process is completed successfully , An application is ready for the usage.
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f44.png)
 
+7. Once an installation process is completed successfully , An application is ready for the usage.
