@@ -2,17 +2,38 @@
 
 1. Double click the 'VMWare' installation set up file (.exe) for installing the 'VMWare Workstation'
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f1.png)
+
 2. 'VMWare Product installation window' will be displayed
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f2.png)
+
 3. After the few seconds 'VMWare Workstation' Welcome screen will be displayed
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f3.png)
 
 4. If you wants to continue the installation process click 'Next' button, otherwise click 'cancel' for cancelling the installation
 
 5. Licence Agreement window is displayed, to select the checkbox for accepting the licence agreement and click 'Next' button to continue the installation process
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f4.png)
+
 6. Installation location selection windows is displayed, to select the location and if you wants to enhancing the keyboard driver, to select the checkbox and click 'Next' button for further installation process
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f5.png)
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f6.png)
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f7.png)
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f8.png)
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f9.png)
+
+
 7. Installation process completed successfully, to click the 'Finish' button for completing the installation or if you want to enter the license key, click 'License' button
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f10.png)
 
 **To install Windows 10 in a virtual machine using Windows 10 ISO disc image in VMware Workstation Pro using the Easy Install method:**
 
