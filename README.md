@@ -39,7 +39,11 @@
 
 1. Click Create a New Virtual Machine. 
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f13.png)
+
 2. Select Typical. And click 'Next' button
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f14.png)
 
 3. Select a source for installing the guest operating system. You can use one of these options:
 - If you have burned the ISO on a DVD, select Installer disc. Ensure that the Windows 10 installer disk in the physical CD/DVD drive.
@@ -47,9 +51,13 @@
 
 *Note:* VMware Workstation automatically detects the ISO or the Disc and selects the Easy Install option.
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f15.png)
+
 4. Click 'Next' button
 
 5. To select the guest operating system with the version, and then click 'Next' button
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f16.png)
 
 6. Enter the virtual machine name.
 
@@ -57,37 +65,83 @@
 
 8. Click 'Next' button
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f17.png)
+
 9. Specify the Disk Capacity and click 'Next' button
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f18.png)
 
 10. If you want to modify any of the settings, such as memory (RAM), CPU, or hard disk size, click Customize Settings and specify the non-default values.
 
 11. Click Finish to save the virtual machine.
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f19.png)
+
 12. The installation now begins. After the installation completes, it automatically installs VMware Tools. After the VMware Tools installation completes, restart the virtual machine when prompted.
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f20.png)
 
 13. To power on the virtual machine by clicking 'Power on this virtual machine' option
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f21.png)
+
 14. Windows Boot manager screen will be appeared, select the set up file and press 'Enter' Key
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f22.png)
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f23.png)
 
 15. To select the langauage and click 'Next' button
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f24.png)
+
 16. click 'Install Now' button for setting up your 'OS'
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f25.png)
 
 17. If you have a product key,  enter the product key and click 'Next' button or click 'Skip'
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f26.png)
+
 18. Select the operating system you want to install and click 'Next' button
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f27.png)
 
 19. To read the terms and conditions, then select the check box for accepting the conditions and click 'Next' button
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f28.png)
+
 20. To select installation type
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f29.png)
 
 21. To select the installation location and click 'Next' button
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f30.png)
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f31.png)
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f32.png)
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f33.png)
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f34.png)
+
 22. To select the below options and click 'Next' button
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f35.png)
 
 23. Create your account and click 'Next' button
 
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f36.png)
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f37.png)
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f38.png)
+
 24. Now OS is ready for the usage
+
+![alt text](https://github.com/TSQAteam/VMware-Installation/blob/master/Screens/f39.png)
 
 **To install an additional applications in VMWare, just follow the below steps:-**
 
